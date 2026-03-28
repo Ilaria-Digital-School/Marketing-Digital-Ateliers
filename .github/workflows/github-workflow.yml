@@ -5,9 +5,11 @@ on:
     - cron: '0 3 * * *'
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: write
-  workflows: write
 
 jobs:
   sync:
@@ -31,11 +33,11 @@ jobs:
           python3 << 'PYEOF'
           import urllib.request, xml.etree.ElementTree as ET, os, re
 
-          RSS_URL   = 'https://www.ilaria-academy.com/assets/modules/gencourses/digital-marketing-expert/fr/rss-digital-marketing-expert.xml'
+          RSS_URL   = "https://www.ilaria-academy.com/assets/modules/gencourses/digital-marketing-expert/fr/rss-digital-marketing-expert.xml"
           NS        = {'ilaria': 'https://ilaria-academy.com/rss/ns'}
           TYPES     = ('workshop', 'mini-project')
-          SEE_LABEL       = 'Voir l'atelier complet'
-          WORKSHOPS_LABEL = 'Ateliers'
+          SEE_LABEL       = "Voir l'atelier complet"
+          WORKSHOPS_LABEL = "Ateliers"
 
           with urllib.request.urlopen(RSS_URL) as r:
               tree = ET.parse(r)
@@ -51,9 +53,9 @@ jobs:
               if course_desc:
                   f.write(f'{course_desc}\n\n')
               if course_link:
-                  f.write(f'[Voir la formation complète]({course_link})\n\n')
+                  f.write(f'[{SEE_LABEL}]({course_link})\n\n')
               if items:
-                  f.write('## Ateliers pratiques\n\n')
+                  f.write(f'## {WORKSHOPS_LABEL}\n\n')
                   for i, item in enumerate(items, 1):
                       t = item.findtext('title', '').strip()
                       s = re.sub(r'[^a-z0-9]+', '-', t.lower()).strip('-') or 'chapitre'
