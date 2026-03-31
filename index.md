@@ -15,4 +15,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 01. [Atelier guidé : observer des campagnes digitales](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/b946bdbc-4317-41c9-b693-9c091d655925/atelier-guid-observer-des-campagnes-digitales)
 02. [Atelier : associer objectifs marketing et canaux](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/d8155729-96ff-428d-ae37-2fdef62a5f2c/atelier-associer-objectifs-marketing-et-canaux)
 03. [Atelier : dessiner un funnel simple](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/c9825d27-56be-4263-b46c-6cc74eef7592/atelier-dessiner-un-funnel-simple)
+04. [Atelier : créer une adresse Gmail dédiée](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/3cc1ef4a-8376-4441-b3a7-e36bae552e56/atelier-crer-une-adresse-gmail-ddie)
 
