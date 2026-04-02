@@ -10,3 +10,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [02. Atelier : associer objectifs marketing et canaux](02-atelier-associer-objectifs-marketing-et-canaux/)
 - [03. Atelier : dessiner un funnel simple](03-atelier-dessiner-un-funnel-simple/)
 - [04. Atelier : créer une adresse Gmail dédiée](04-atelier-cr-er-une-adresse-gmail-d-di-e/)
+- [05. Atelier : organiser son Drive pour le projet](05-atelier-organiser-son-drive-pour-le-projet/)
