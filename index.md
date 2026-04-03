@@ -17,4 +17,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 03. [Atelier : dessiner un funnel simple](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/c9825d27-56be-4263-b46c-6cc74eef7592/atelier-dessiner-un-funnel-simple)
 04. [Atelier : créer une adresse Gmail dédiée](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/3cc1ef4a-8376-4441-b3a7-e36bae552e56/atelier-crer-une-adresse-gmail-ddie)
 05. [Atelier : organiser son Drive pour le projet](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/36511850-8e80-4108-b1d2-037043fc859e/atelier-organiser-son-drive-pour-le-projet)
+06. [Atelier : installer un gestionnaire de mots de passe](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/a8fd8459-55ea-4f82-b12b-013739567cb4/atelier-installer-un-gestionnaire-de-mots-de-passe)
 
