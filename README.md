@@ -6,7 +6,7 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 
 ## Ateliers
 
-- [01. Atelier guidé : observer des campagnes digitales](01-atelier-guid-observer-des-campagnes-digitales/)
+- [01. Atelier : observer des campagnes digitales](01-atelier-observer-des-campagnes-digitales/)
 - [02. Atelier : associer objectifs marketing et canaux](02-atelier-associer-objectifs-marketing-et-canaux/)
 - [03. Atelier : dessiner un funnel simple](03-atelier-dessiner-un-funnel-simple/)
 - [04. Atelier : créer une adresse Gmail dédiée](04-atelier-cr-er-une-adresse-gmail-d-di-e/)
