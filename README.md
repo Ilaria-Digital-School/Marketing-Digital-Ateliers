@@ -12,3 +12,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [04. Atelier : créer une adresse Gmail dédiée](04-atelier-cr-er-une-adresse-gmail-d-di-e/)
 - [05. Atelier : organiser son Drive pour le projet](05-atelier-organiser-son-drive-pour-le-projet/)
 - [06. Atelier : installer un gestionnaire de mots de passe](06-atelier-installer-un-gestionnaire-de-mots-de-passe/)
+- [07. Atelier : créer un board Trello 'Campagne Digitale'](07-atelier-cr-er-un-board-trello-campagne-digitale/)
+- [08. Atelier : Personnaliser labels et échéances](08-atelier-personnaliser-labels-et-ch-ances/)
