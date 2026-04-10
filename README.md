@@ -14,3 +14,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [06. Atelier : installer un gestionnaire de mots de passe](06-atelier-installer-un-gestionnaire-de-mots-de-passe/)
 - [07. Atelier : créer un board Trello 'Campagne Digitale'](07-atelier-cr-er-un-board-trello-campagne-digitale/)
 - [08. Atelier : Personnaliser labels et échéances](08-atelier-personnaliser-labels-et-ch-ances/)
+- [09. Atelier : rédiger une proposition de valeur pour un produit fictif](09-atelier-r-diger-une-proposition-de-valeur-pour-un-produit-fictif/)
