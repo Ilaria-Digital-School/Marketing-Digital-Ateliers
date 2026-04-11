@@ -21,4 +21,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 07. [Atelier : créer un board Trello 'Campagne Digitale'](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/531c4046-4f2b-4f18-935d-5645284796b2/atelier-crer-un-board-trello-campagne-digitale)
 08. [Atelier : Personnaliser labels et échéances](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/beb0045e-d5bc-49eb-b51b-9dd773e18369/atelier-personnaliser-labels-et-chances)
 09. [Atelier : rédiger une proposition de valeur pour un produit fictif](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/47ecd1bf-ffbe-433e-b45b-8cfe75a3b47f/atelier-rdiger-une-proposition-de-valeur-pour-un-produit-fictif)
+10. [Atelier : associer KPIs aux étapes du funnel](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/3beb0d2d-df0f-4107-9943-6071f30ef09f/612dcccf-8cb8-44ea-b62d-ae8bd4a08406/atelier-associer-kpis-aux-tapes-du-funnel)
 
