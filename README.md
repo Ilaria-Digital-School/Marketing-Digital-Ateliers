@@ -16,3 +16,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [08. Atelier : Personnaliser labels et échéances](08-atelier-personnaliser-labels-et-ch-ances/)
 - [09. Atelier : rédiger une proposition de valeur pour un produit fictif](09-atelier-r-diger-une-proposition-de-valeur-pour-un-produit-fictif/)
 - [10. Atelier : associer KPIs aux étapes du funnel](10-atelier-associer-kpis-aux-tapes-du-funnel/)
+- [11. Atelier : repérer les métriques clés dans GA](11-atelier-rep-rer-les-m-triques-cl-s-dans-ga/)
