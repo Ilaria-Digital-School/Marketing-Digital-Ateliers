@@ -34,3 +34,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [26. Atelier : Sélection de KPI pour une campagne e-mail](26-atelier-s-lection-de-kpi-pour-une-campagne-e-mail/)
 - [27. Atelier : Mapper KPI au funnel AARRR](27-atelier-mapper-kpi-au-funnel-aarrr/)
 - [28. Atelier : Calculer baseline à partir de données fictives](28-atelier-calculer-baseline-partir-de-donn-es-fictives/)
+- [29. Atelier : Identifier leading indicators pour objectif donné](29-atelier-identifier-leading-indicators-pour-objectif-donn/)
+- [30. Mini-projet : Créer la matrice objectifs SMART / KPI pour un site e-commerce](30-mini-projet-cr-er-la-matrice-objectifs-smart-kpi-pour-un-site-e-commerce/)
