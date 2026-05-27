@@ -43,4 +43,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 29. [Atelier : Identifier leading indicators pour objectif donné](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/be76c608-53fa-48a6-9874-451565c17d7f/atelier-identifier-leading-indicators-pour-objectif-donn)
 30. [Mini-projet : Créer la matrice objectifs SMART / KPI pour un site e-commerce](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/69d472e5-5c0b-4344-99e5-8b5cdb2b83cb/mini-projet-crer-la-matrice-objectifs-smart-kpi-pour-un-site-e-commerce)
 31. [Atelier : Choisir le visuel approprié pour chaque KPI](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/fe373e55-b0ff-4cfd-a999-d51290e723eb/atelier-choisir-le-visuel-appropri-pour-chaque-kpi)
+32. [Atelier : Plan de monitoring hebdo vs mensuel](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/b937529d-765a-4f58-bad8-c682f59199ce/atelier-plan-de-monitoring-hebdo-vs-mensuel)
 

@@ -37,3 +37,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [29. Atelier : Identifier leading indicators pour objectif donné](29-atelier-identifier-leading-indicators-pour-objectif-donn/)
 - [30. Mini-projet : Créer la matrice objectifs SMART / KPI pour un site e-commerce](30-mini-projet-cr-er-la-matrice-objectifs-smart-kpi-pour-un-site-e-commerce/)
 - [31. Atelier : Choisir le visuel approprié pour chaque KPI](31-atelier-choisir-le-visuel-appropri-pour-chaque-kpi/)
+- [32. Atelier : Plan de monitoring hebdo vs mensuel](32-atelier-plan-de-monitoring-hebdo-vs-mensuel/)
