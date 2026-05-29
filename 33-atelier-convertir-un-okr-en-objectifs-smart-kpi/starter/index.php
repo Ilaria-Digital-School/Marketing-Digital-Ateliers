@@ -1,0 +1,2 @@
+<?php
+// Atelier : Convertir un OKR en objectifs SMART + KPI
