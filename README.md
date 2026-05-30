@@ -39,3 +39,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [31. Atelier : Choisir le visuel approprié pour chaque KPI](31-atelier-choisir-le-visuel-appropri-pour-chaque-kpi/)
 - [32. Atelier : Plan de monitoring hebdo vs mensuel](32-atelier-plan-de-monitoring-hebdo-vs-mensuel/)
 - [33. Atelier : Convertir un OKR en objectifs SMART + KPI](33-atelier-convertir-un-okr-en-objectifs-smart-kpi/)
+- [34. Atelier : Audit d’objectifs SMART d’un pair](34-atelier-audit-d-objectifs-smart-d-un-pair/)
