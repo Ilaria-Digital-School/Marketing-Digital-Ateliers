@@ -46,4 +46,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 32. [Atelier : Plan de monitoring hebdo vs mensuel](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/b937529d-765a-4f58-bad8-c682f59199ce/atelier-plan-de-monitoring-hebdo-vs-mensuel)
 33. [Atelier : Convertir un OKR en objectifs SMART + KPI](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/ed00a1cc-cefb-42a3-8b48-be99463949de/atelier-convertir-un-okr-en-objectifs-smart-kpi)
 34. [Atelier : Audit d’objectifs SMART d’un pair](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/c0ad644f-793e-4664-8725-6d5c36768f32/atelier-audit-d-objectifs-smart-d-un-pair)
+35. [Mini-projet final : Plan de mesure complet pour une start-up SaaS](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/dde295e9-b0df-4b46-a18f-68306e821c41/mini-projet-final-plan-de-mesure-complet-pour-une-start-up-saas)
 
