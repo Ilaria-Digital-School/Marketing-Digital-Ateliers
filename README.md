@@ -41,3 +41,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [33. Atelier : Convertir un OKR en objectifs SMART + KPI](33-atelier-convertir-un-okr-en-objectifs-smart-kpi/)
 - [34. Atelier : Audit d’objectifs SMART d’un pair](34-atelier-audit-d-objectifs-smart-d-un-pair/)
 - [35. Mini-projet final : Plan de mesure complet pour une start-up SaaS](35-mini-projet-final-plan-de-mesure-complet-pour-une-start-up-saas/)
+- [36. Atelier personnel : Formaliser ses propres objectifs SMART et KPI](36-atelier-personnel-formaliser-ses-propres-objectifs-smart-et-kpi/)
