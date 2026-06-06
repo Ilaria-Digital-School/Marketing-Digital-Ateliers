@@ -48,4 +48,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 34. [Atelier : Audit d’objectifs SMART d’un pair](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/c0ad644f-793e-4664-8725-6d5c36768f32/atelier-audit-d-objectifs-smart-d-un-pair)
 35. [Mini-projet final : Plan de mesure complet pour une start-up SaaS](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/dde295e9-b0df-4b46-a18f-68306e821c41/mini-projet-final-plan-de-mesure-complet-pour-une-start-up-saas)
 36. [Atelier personnel : Formaliser ses propres objectifs SMART et KPI](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/fda6d73d-922f-49c6-9325-0043d1afb820/atelier-personnel-formaliser-ses-propres-objectifs-smart-et-kpi)
+37. [Atelier : identifier des segments simples (cas e-commerce)](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/956794d0-da33-44db-bf67-d757b1c49f38/atelier-identifier-des-segments-simples-cas-e-commerce)
 
