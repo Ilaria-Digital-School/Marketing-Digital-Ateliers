@@ -44,3 +44,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [36. Atelier personnel : Formaliser ses propres objectifs SMART et KPI](36-atelier-personnel-formaliser-ses-propres-objectifs-smart-et-kpi/)
 - [37. Atelier : identifier des segments simples (cas e-commerce)](37-atelier-identifier-des-segments-simples-cas-e-commerce/)
 - [38. Atelier : extraire des insights pour un persona](38-atelier-extraire-des-insights-pour-un-persona/)
+- [39. Atelier : rédiger une fiche persona basique](39-atelier-r-diger-une-fiche-persona-basique/)
