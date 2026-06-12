@@ -45,3 +45,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [37. Atelier : identifier des segments simples (cas e-commerce)](37-atelier-identifier-des-segments-simples-cas-e-commerce/)
 - [38. Atelier : extraire des insights pour un persona](38-atelier-extraire-des-insights-pour-un-persona/)
 - [39. Atelier : rédiger une fiche persona basique](39-atelier-r-diger-une-fiche-persona-basique/)
+- [40. Adapter la persona à un autre secteur](40-adapter-la-persona-un-autre-secteur/)
