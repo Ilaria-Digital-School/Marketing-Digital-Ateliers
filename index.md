@@ -52,4 +52,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 38. [Atelier : extraire des insights pour un persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/d0f5fb1c-be82-4ab7-8320-9663f85b64c2/atelier-extraire-des-insights-pour-un-persona)
 39. [Atelier : rédiger une fiche persona basique](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/f68807af-863e-479f-8e67-4a1d68915364/atelier-rediger-une-fiche-persona-basique)
 40. [Adapter la persona à un autre secteur](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/fc5324ea-265d-4b2c-ae71-2d05453fee61/adapter-la-persona-a-un-autre-secteur)
+41. [Atelier : associer segment et persona (mini-cas)](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/80e9d4ce-9ca2-4d23-804d-384c70a510b3/atelier-associer-segment-et-persona-mini-cas)
 
