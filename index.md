@@ -54,4 +54,6 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 40. [Adapter la persona à un autre secteur](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/fc5324ea-265d-4b2c-ae71-2d05453fee61/adapter-la-persona-a-un-autre-secteur)
 41. [Atelier : associer segment et persona (mini-cas)](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/80e9d4ce-9ca2-4d23-804d-384c70a510b3/atelier-associer-segment-et-persona-mini-cas)
 42. [Sprint 15’ : créer une quick persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/fc71276d-a13e-4447-aeb0-ceda9d41c829/sprint-15-creer-une-quick-persona)
+43. [Simulation d’entretien utilisateur enregistré](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/1216dae9-5fdb-4301-ad0b-160e9b6268bc/simulation-d-entretien-utilisateur-enregistre)
+44. [Kit persona complet pour un produit fictif](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/d62bfaa5-6297-4690-8d18-467ad89aed31/kit-persona-complet-pour-un-produit-fictif)
 
