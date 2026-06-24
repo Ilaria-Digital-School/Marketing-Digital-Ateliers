@@ -50,3 +50,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [42. Sprint 15' : créer une quick persona](42-sprint-15-cr-er-une-quick-persona/)
 - [43. Simulation d'entretien utilisateur enregistré](43-simulation-d-entretien-utilisateur-enregistr/)
 - [44. Kit persona complet pour un produit fictif](44-kit-persona-complet-pour-un-produit-fictif/)
+- [45. Atelier : cartographier un parcours basique](45-atelier-cartographier-un-parcours-basique/)

@@ -56,4 +56,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 42. [Sprint 15' : créer une quick persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/fc71276d-a13e-4447-aeb0-ceda9d41c829/sprint-15-creer-une-quick-persona)
 43. [Simulation d'entretien utilisateur enregistré](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/1216dae9-5fdb-4301-ad0b-160e9b6268bc/simulation-d-entretien-utilisateur-enregistre)
 44. [Kit persona complet pour un produit fictif](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/d62bfaa5-6297-4690-8d18-467ad89aed31/kit-persona-complet-pour-un-produit-fictif)
+45. [Atelier : cartographier un parcours basique](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/77479b86-1e29-4e39-9d61-808ef974887d/atelier-cartographier-un-parcours-basique)
 
