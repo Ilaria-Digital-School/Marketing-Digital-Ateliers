@@ -51,3 +51,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [43. Simulation d'entretien utilisateur enregistré](43-simulation-d-entretien-utilisateur-enregistr/)
 - [44. Kit persona complet pour un produit fictif](44-kit-persona-complet-pour-un-produit-fictif/)
 - [45. Atelier : cartographier un parcours basique](45-atelier-cartographier-un-parcours-basique/)
+- [46. Parcours client d'un autre secteur](46-parcours-client-d-un-autre-secteur/)

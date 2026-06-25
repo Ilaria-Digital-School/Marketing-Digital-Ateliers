@@ -57,4 +57,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 43. [Simulation d'entretien utilisateur enregistré](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/1216dae9-5fdb-4301-ad0b-160e9b6268bc/simulation-d-entretien-utilisateur-enregistre)
 44. [Kit persona complet pour un produit fictif](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/d62bfaa5-6297-4690-8d18-467ad89aed31/kit-persona-complet-pour-un-produit-fictif)
 45. [Atelier : cartographier un parcours basique](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/77479b86-1e29-4e39-9d61-808ef974887d/atelier-cartographier-un-parcours-basique)
+46. [Parcours client d'un autre secteur](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c77ba05f-3e34-4d5b-b1f0-3c2d11038c0b/parcours-client-d-un-autre-secteur)
 
