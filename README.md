@@ -53,3 +53,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [45. Atelier : cartographier un parcours basique](45-atelier-cartographier-un-parcours-basique/)
 - [46. Parcours client d'un autre secteur](46-parcours-client-d-un-autre-secteur/)
 - [47. Atelier : enrichir un parcours avec des données comportementales](47-atelier-enrichir-un-parcours-avec-des-donn-es-comportementales/)
+- [48. Atelier : ajouter émotions et attentes au CJM](48-atelier-ajouter-motions-et-attentes-au-cjm/)
