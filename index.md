@@ -60,4 +60,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 46. [Parcours client d'un autre secteur](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c77ba05f-3e34-4d5b-b1f0-3c2d11038c0b/parcours-client-d-un-autre-secteur)
 47. [Atelier : enrichir un parcours avec des données comportementales](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/94742ad2-065c-46df-905c-8b4a6f4c30ad/atelier-enrichir-un-parcours-avec-des-donnees-comportementales)
 48. [Atelier : ajouter émotions et attentes au CJM](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c75f319e-3489-48f5-9664-e67facba6322/atelier-ajouter-emotions-et-attentes-au-cjm)
+49. [Atelier : storyboard emailing aligné sur le parcours](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/6e8b075f-cc31-4f53-94c0-d1826e477908/atelier-storyboard-emailing-aligne-sur-le-parcours)
 
