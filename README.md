@@ -56,3 +56,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [48. Atelier : ajouter émotions et attentes au CJM](48-atelier-ajouter-motions-et-attentes-au-cjm/)
 - [49. Atelier : storyboard emailing aligné sur le parcours](49-atelier-storyboard-emailing-align-sur-le-parcours/)
 - [50. Atelier : définir les indicateurs pour un CJM existant](50-atelier-d-finir-les-indicateurs-pour-un-cjm-existant/)
+- [51. Projet fil rouge (partie 1) : CJM complet pour 2 personas](51-projet-fil-rouge-partie-1-cjm-complet-pour-2-personas/)

@@ -62,4 +62,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 48. [Atelier : ajouter émotions et attentes au CJM](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c75f319e-3489-48f5-9664-e67facba6322/atelier-ajouter-emotions-et-attentes-au-cjm)
 49. [Atelier : storyboard emailing aligné sur le parcours](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/6e8b075f-cc31-4f53-94c0-d1826e477908/atelier-storyboard-emailing-aligne-sur-le-parcours)
 50. [Atelier : définir les indicateurs pour un CJM existant](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/6910ac40-ced5-4dfb-a033-a8bd4d059c54/atelier-definir-les-indicateurs-pour-un-cjm-existant)
+51. [Projet fil rouge (partie 1) : CJM complet pour 2 personas](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/073f1e8e-947f-4957-bb06-937d451501fd/projet-fil-rouge-partie-1-cjm-complet-pour-2-personas)
 
