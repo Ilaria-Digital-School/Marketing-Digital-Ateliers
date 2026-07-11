@@ -59,3 +59,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [51. Projet fil rouge (partie 1) : CJM complet pour 2 personas](51-projet-fil-rouge-partie-1-cjm-complet-pour-2-personas/)
 - [52. Session de feedback pair-à-pair sur le CJM](52-session-de-feedback-pair-pair-sur-le-cjm/)
 - [53. Projet fil rouge (partie 2) : ajustements & présentation finale](53-projet-fil-rouge-partie-2-ajustements-pr-sentation-finale/)
+- [54. Identifier des exemples de content marketing autour de soi](54-identifier-des-exemples-de-content-marketing-autour-de-soi/)

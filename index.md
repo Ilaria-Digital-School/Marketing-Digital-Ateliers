@@ -65,4 +65,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 51. [Projet fil rouge (partie 1) : CJM complet pour 2 personas](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/073f1e8e-947f-4957-bb06-937d451501fd/projet-fil-rouge-partie-1-cjm-complet-pour-2-personas)
 52. [Session de feedback pair-à-pair sur le CJM](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c05c3479-fffb-4967-87d8-60209b580074/session-de-feedback-pair-a-pair-sur-le-cjm)
 53. [Projet fil rouge (partie 2) : ajustements & présentation finale](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/20e1cba0-971c-45f1-b231-c6e58c4c30b5/projet-fil-rouge-partie-2-ajustements-presentation-finale)
+54. [Identifier des exemples de content marketing autour de soi](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/2d63b88d-93f4-4061-b665-f5b7a80c1696/identifier-des-exemples-de-content-marketing-autour-de-soi)
 
