@@ -67,4 +67,6 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 53. [Projet fil rouge (partie 2) : ajustements & présentation finale](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/f80cba8c-d5f2-4112-98e7-6469ba9293e7/20e1cba0-971c-45f1-b231-c6e58c4c30b5/projet-fil-rouge-partie-2-ajustements-presentation-finale)
 54. [Identifier des exemples de content marketing autour de soi](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/2d63b88d-93f4-4061-b665-f5b7a80c1696/identifier-des-exemples-de-content-marketing-autour-de-soi)
 55. [Analyser un cas simple de campagne de contenu](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/27b17d10-dd99-496f-bf7b-58a77752335e/analyser-un-cas-simple-de-campagne-de-contenu)
+56. [Exercice : formuler un objectif SMART de contenu](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/8e50c854-910c-45bc-9d99-005846251007/exercice-formuler-un-objectif-smart-de-contenu)
+57. [Reformuler objectifs pour différentes industries](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/64447475-098c-4bca-9f0b-0a37f85cce75/reformuler-objectifs-pour-differentes-industries)
 

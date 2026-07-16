@@ -61,3 +61,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [53. Projet fil rouge (partie 2) : ajustements & présentation finale](53-projet-fil-rouge-partie-2-ajustements-pr-sentation-finale/)
 - [54. Identifier des exemples de content marketing autour de soi](54-identifier-des-exemples-de-content-marketing-autour-de-soi/)
 - [55. Analyser un cas simple de campagne de contenu](55-analyser-un-cas-simple-de-campagne-de-contenu/)
+- [56. Exercice : formuler un objectif SMART de contenu](56-exercice-formuler-un-objectif-smart-de-contenu/)
+- [57. Reformuler objectifs pour différentes industries](57-reformuler-objectifs-pour-diff-rentes-industries/)
