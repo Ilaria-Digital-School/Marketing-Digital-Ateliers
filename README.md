@@ -64,3 +64,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [56. Exercice : formuler un objectif SMART de contenu](56-exercice-formuler-un-objectif-smart-de-contenu/)
 - [57. Reformuler objectifs pour différentes industries](57-reformuler-objectifs-pour-diff-rentes-industries/)
 - [58. Brainstorming : trouver des idées de contenu à valeur](58-brainstorming-trouver-des-id-es-de-contenu-valeur/)
+- [59. Template : créer un persona de base](59-template-cr-er-un-persona-de-base/)

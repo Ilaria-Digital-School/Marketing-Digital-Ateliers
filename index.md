@@ -70,4 +70,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 56. [Exercice : formuler un objectif SMART de contenu](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/8e50c854-910c-45bc-9d99-005846251007/exercice-formuler-un-objectif-smart-de-contenu)
 57. [Reformuler objectifs pour différentes industries](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/64447475-098c-4bca-9f0b-0a37f85cce75/reformuler-objectifs-pour-differentes-industries)
 58. [Brainstorming : trouver des idées de contenu à valeur](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/0c6a9c30-d623-4557-bc52-3a6edcc0d8fc/brainstorming-trouver-des-idees-de-contenu-a-valeur)
+59. [Template : créer un persona de base](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/92f7a99d-9f41-4c69-9747-942e63e216a8/template-creer-un-persona-de-base)
 
