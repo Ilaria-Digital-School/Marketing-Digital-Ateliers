@@ -72,4 +72,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 58. [Brainstorming : trouver des idées de contenu à valeur](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/0c6a9c30-d623-4557-bc52-3a6edcc0d8fc/brainstorming-trouver-des-idees-de-contenu-a-valeur)
 59. [Template : créer un persona de base](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/92f7a99d-9f41-4c69-9747-942e63e216a8/template-creer-un-persona-de-base)
 60. [Associer types de contenus aux étapes du parcours](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/16564402-44b7-4448-b205-076d57de4c0f/associer-types-de-contenus-aux-etapes-du-parcours)
+61. [Adapter un contenu existant à un nouveau persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/9611b9c0-993b-441c-b2d4-f398700a2fed/adapter-un-contenu-existant-a-un-nouveau-persona)
 
