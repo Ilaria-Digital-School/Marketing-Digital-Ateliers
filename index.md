@@ -74,4 +74,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 60. [Associer types de contenus aux étapes du parcours](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/16564402-44b7-4448-b205-076d57de4c0f/associer-types-de-contenus-aux-etapes-du-parcours)
 61. [Adapter un contenu existant à un nouveau persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/9611b9c0-993b-441c-b2d4-f398700a2fed/adapter-un-contenu-existant-a-un-nouveau-persona)
 62. [Mini-cas : diagnostic d'une stratégie de contenu débutante](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/1cb6c89e-fadb-407f-a784-7644606aaa17/mini-cas-diagnostic-d-une-strategie-de-contenu-debutante)
+63. [Sprint 1 : définir objectifs et personas pour un projet personnel](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/b13feabd-8383-4c0d-9c75-a2429552fe31/sprint-1-definir-objectifs-et-personas-pour-un-projet-personnel)
 
