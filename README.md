@@ -69,3 +69,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [61. Adapter un contenu existant à un nouveau persona](61-adapter-un-contenu-existant-un-nouveau-persona/)
 - [62. Mini-cas : diagnostic d'une stratégie de contenu débutante](62-mini-cas-diagnostic-d-une-strat-gie-de-contenu-d-butante/)
 - [63. Sprint 1 : définir objectifs et personas pour un projet personnel](63-sprint-1-d-finir-objectifs-et-personas-pour-un-projet-personnel/)
+- [64. Décortiquer une histoire de marque à succès](64-d-cortiquer-une-histoire-de-marque-succ-s/)
