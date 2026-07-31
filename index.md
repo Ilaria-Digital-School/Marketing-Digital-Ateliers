@@ -76,4 +76,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 62. [Mini-cas : diagnostic d'une stratégie de contenu débutante](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/1cb6c89e-fadb-407f-a784-7644606aaa17/mini-cas-diagnostic-d-une-strategie-de-contenu-debutante)
 63. [Sprint 1 : définir objectifs et personas pour un projet personnel](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/b13feabd-8383-4c0d-9c75-a2429552fe31/sprint-1-definir-objectifs-et-personas-pour-un-projet-personnel)
 64. [Décortiquer une histoire de marque à succès](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/994268c6-364a-4869-aa3d-ed02cf92eed2/decortiquer-une-histoire-de-marque-a-succes)
+65. [Atelier : écrire un micro-récit en 3 actes](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/eaa941f6-2711-483b-970c-37f690f0161c/atelier-ecrire-un-micro-recit-en-3-actes)
 

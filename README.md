@@ -70,3 +70,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [62. Mini-cas : diagnostic d'une stratégie de contenu débutante](62-mini-cas-diagnostic-d-une-strat-gie-de-contenu-d-butante/)
 - [63. Sprint 1 : définir objectifs et personas pour un projet personnel](63-sprint-1-d-finir-objectifs-et-personas-pour-un-projet-personnel/)
 - [64. Décortiquer une histoire de marque à succès](64-d-cortiquer-une-histoire-de-marque-succ-s/)
+- [65. Atelier : écrire un micro-récit en 3 actes](65-atelier-crire-un-micro-r-cit-en-3-actes/)
