@@ -1,0 +1,2 @@
+<?php
+// Transformer un récit commercial en récit client
