@@ -72,3 +72,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [64. Décortiquer une histoire de marque à succès](64-d-cortiquer-une-histoire-de-marque-succ-s/)
 - [65. Atelier : écrire un micro-récit en 3 actes](65-atelier-crire-un-micro-r-cit-en-3-actes/)
 - [66. Transformer un récit commercial en récit client](66-transformer-un-r-cit-commercial-en-r-cit-client/)
+- [67. Exercice créatif : trouver le conflit pertinent pour son audience](67-exercice-cr-atif-trouver-le-conflit-pertinent-pour-son-audience/)
