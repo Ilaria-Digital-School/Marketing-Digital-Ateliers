@@ -75,3 +75,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [67. Exercice créatif : trouver le conflit pertinent pour son audience](67-exercice-cr-atif-trouver-le-conflit-pertinent-pour-son-audience/)
 - [68. Créer un premier calendrier mensuel sur tableur](68-cr-er-un-premier-calendrier-mensuel-sur-tableur/)
 - [69. Choisir le format adapté à chaque étape du parcours](69-choisir-le-format-adapt-chaque-tape-du-parcours/)
+- [70. Rééquilibrer un calendrier surchargé](70-r-quilibrer-un-calendrier-surcharg/)
