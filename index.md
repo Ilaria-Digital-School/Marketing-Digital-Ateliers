@@ -82,4 +82,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 68. [Créer un premier calendrier mensuel sur tableur](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/5975511b-16d4-4460-92c9-f020cd261cea/creer-un-premier-calendrier-mensuel-sur-tableur)
 69. [Choisir le format adapté à chaque étape du parcours](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/0db7e418-7701-40ab-a366-6dbf5cb311c2/choisir-le-format-adapte-a-chaque-etape-du-parcours)
 70. [Rééquilibrer un calendrier surchargé](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/ab464f49-9dfb-46e2-bfdd-21c01cfe77b4/reequilibrer-un-calendrier-surcharge)
+71. [Exercice : définir la voix de sa marque en 3 adjectifs](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/59d63336-db03-40d0-9cb5-2f3f472255b2/exercice-definir-la-voix-de-sa-marque-en-3-adjectifs)
 
