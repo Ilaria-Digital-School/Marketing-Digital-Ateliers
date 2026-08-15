@@ -84,4 +84,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 70. [Rééquilibrer un calendrier surchargé](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/ab464f49-9dfb-46e2-bfdd-21c01cfe77b4/reequilibrer-un-calendrier-surcharge)
 71. [Exercice : définir la voix de sa marque en 3 adjectifs](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/59d63336-db03-40d0-9cb5-2f3f472255b2/exercice-definir-la-voix-de-sa-marque-en-3-adjectifs)
 72. [Mini-cas : auditer un calendrier et proposer des améliorations](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/c302e531-3e8f-4cc6-906f-ccb2bc9a6727/mini-cas-auditer-un-calendrier-et-proposer-des-ameliorations)
+73. [Associer KPIs à chaque objectif et format](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/36d51ac5-a129-4474-a9b5-f4a2551ff51a/associer-kpis-a-chaque-objectif-et-format)
 

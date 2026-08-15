@@ -78,3 +78,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [70. Rééquilibrer un calendrier surchargé](70-r-quilibrer-un-calendrier-surcharg/)
 - [71. Exercice : définir la voix de sa marque en 3 adjectifs](71-exercice-d-finir-la-voix-de-sa-marque-en-3-adjectifs/)
 - [72. Mini-cas : auditer un calendrier et proposer des améliorations](72-mini-cas-auditer-un-calendrier-et-proposer-des-am-liorations/)
+- [73. Associer KPIs à chaque objectif et format](73-associer-kpis-chaque-objectif-et-format/)
