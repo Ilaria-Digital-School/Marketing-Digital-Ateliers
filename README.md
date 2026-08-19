@@ -79,3 +79,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [71. Exercice : définir la voix de sa marque en 3 adjectifs](71-exercice-d-finir-la-voix-de-sa-marque-en-3-adjectifs/)
 - [72. Mini-cas : auditer un calendrier et proposer des améliorations](72-mini-cas-auditer-un-calendrier-et-proposer-des-am-liorations/)
 - [73. Associer KPIs à chaque objectif et format](73-associer-kpis-chaque-objectif-et-format/)
+- [74. Définir un scénario simple de nurturing basé sur le contenu](74-d-finir-un-sc-nario-simple-de-nurturing-bas-sur-le-contenu/)
