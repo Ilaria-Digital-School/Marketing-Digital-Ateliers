@@ -80,3 +80,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [72. Mini-cas : auditer un calendrier et proposer des améliorations](72-mini-cas-auditer-un-calendrier-et-proposer-des-am-liorations/)
 - [73. Associer KPIs à chaque objectif et format](73-associer-kpis-chaque-objectif-et-format/)
 - [74. Définir un scénario simple de nurturing basé sur le contenu](74-d-finir-un-sc-nario-simple-de-nurturing-bas-sur-le-contenu/)
+- [75. Sprint 2 : concevoir un plan de contenu narratif complet](75-sprint-2-concevoir-un-plan-de-contenu-narratif-complet/)
+- [76. Peer review : feedback croisé sur les plans de contenu](76-peer-review-feedback-crois-sur-les-plans-de-contenu/)
