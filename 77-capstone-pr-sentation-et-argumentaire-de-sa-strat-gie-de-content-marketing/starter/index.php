@@ -1,0 +1,2 @@
+<?php
+// Capstone : Présentation et argumentaire de sa stratégie de content marketing

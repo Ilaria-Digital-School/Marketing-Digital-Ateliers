@@ -88,4 +88,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 74. [Définir un scénario simple de nurturing basé sur le contenu](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/7b0ab872-40a6-4caf-8c86-fe9caebcb9d0/definir-un-scenario-simple-de-nurturing-base-sur-le-contenu)
 75. [Sprint 2 : concevoir un plan de contenu narratif complet](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/2b720285-007e-4d7b-b31a-f336191160d8/sprint-2-concevoir-un-plan-de-contenu-narratif-complet)
 76. [Peer review : feedback croisé sur les plans de contenu](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/086684dc-2e3c-49c7-9028-f41efe4696db/peer-review-feedback-croise-sur-les-plans-de-contenu)
+77. [Capstone : Présentation et argumentaire de sa stratégie de content marketing](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/17020e84-9c8d-482f-b6b9-aea0cd907f06/7d10276f-87e5-4be2-bf5a-02e1ba3c3cb8/capstone-presentation-et-argumentaire-de-sa-strategie-de-content-marketing)
 
