@@ -83,3 +83,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [75. Sprint 2 : concevoir un plan de contenu narratif complet](75-sprint-2-concevoir-un-plan-de-contenu-narratif-complet/)
 - [76. Peer review : feedback croisé sur les plans de contenu](76-peer-review-feedback-crois-sur-les-plans-de-contenu/)
 - [77. Capstone : Présentation et argumentaire de sa stratégie de content marketing](77-capstone-pr-sentation-et-argumentaire-de-sa-strat-gie-de-content-marketing/)
+- [78. Atelier : observer le crawl avec Screaming Frog](78-atelier-observer-le-crawl-avec-screaming-frog/)
