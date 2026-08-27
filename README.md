@@ -84,3 +84,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [76. Peer review : feedback croisé sur les plans de contenu](76-peer-review-feedback-crois-sur-les-plans-de-contenu/)
 - [77. Capstone : Présentation et argumentaire de sa stratégie de content marketing](77-capstone-pr-sentation-et-argumentaire-de-sa-strat-gie-de-content-marketing/)
 - [78. Atelier : observer le crawl avec Screaming Frog](78-atelier-observer-le-crawl-avec-screaming-frog/)
+- [79. Atelier : identifier les éléments clés d’une SERP](79-atelier-identifier-les-l-ments-cl-s-d-une-serp/)
+- [80. Atelier : classer 5 pages fictives selon leur pertinence](80-atelier-classer-5-pages-fictives-selon-leur-pertinence/)
