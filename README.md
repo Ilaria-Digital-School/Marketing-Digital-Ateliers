@@ -86,3 +86,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [78. Atelier : observer le crawl avec Screaming Frog](78-atelier-observer-le-crawl-avec-screaming-frog/)
 - [79. Atelier : identifier les éléments clés d’une SERP](79-atelier-identifier-les-l-ments-cl-s-d-une-serp/)
 - [80. Atelier : classer 5 pages fictives selon leur pertinence](80-atelier-classer-5-pages-fictives-selon-leur-pertinence/)
+- [81. Atelier : manipuler robots.txt et sitemap sur un bac à sable](81-atelier-manipuler-robots-txt-et-sitemap-sur-un-bac-sable/)

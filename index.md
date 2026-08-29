@@ -92,4 +92,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 78. [Atelier : observer le crawl avec Screaming Frog](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/9eb93e56-292a-481b-83b7-b3348f7e99e7/atelier-observer-le-crawl-avec-screaming-frog)
 79. [Atelier : identifier les éléments clés d’une SERP](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/2d892fa2-e994-4705-a15b-c94f95b677b3/atelier-identifier-les-elements-cles-d-une-serp)
 80. [Atelier : classer 5 pages fictives selon leur pertinence](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/285d7bf8-b62b-4d49-86fd-0eadb41f9780/atelier-classer-5-pages-fictives-selon-leur-pertinence)
+81. [Atelier : manipuler robots.txt et sitemap sur un bac à sable](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/2701b926-c764-41d7-9ac0-276daddcb6d3/atelier-manipuler-robots-txt-et-sitemap-sur-un-bac-a-sable)
 
