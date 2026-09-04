@@ -89,3 +89,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [81. Atelier : manipuler robots.txt et sitemap sur un bac à sable](81-atelier-manipuler-robots-txt-et-sitemap-sur-un-bac-sable/)
 - [82. Atelier : brainstorm mots-clés avec Google Suggest](82-atelier-brainstorm-mots-cl-s-avec-google-suggest/)
 - [83. Atelier : utiliser Ubersuggest pour analyser les métriques mot-clé](83-atelier-utiliser-ubersuggest-pour-analyser-les-m-triques-mot-cl/)
+- [84. Atelier : regrouper les mots-clés par intention](84-atelier-regrouper-les-mots-cl-s-par-intention/)

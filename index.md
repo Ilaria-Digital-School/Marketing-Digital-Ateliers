@@ -95,4 +95,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 81. [Atelier : manipuler robots.txt et sitemap sur un bac à sable](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/2701b926-c764-41d7-9ac0-276daddcb6d3/atelier-manipuler-robots-txt-et-sitemap-sur-un-bac-a-sable)
 82. [Atelier : brainstorm mots-clés avec Google Suggest](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/21be746d-291a-48f6-8310-04289803a172/atelier-brainstorm-mots-cles-avec-google-suggest)
 83. [Atelier : utiliser Ubersuggest pour analyser les métriques mot-clé](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/c60c6f68-48e4-4491-b6ed-145cfd87e83a/atelier-utiliser-ubersuggest-pour-analyser-les-metriques-mot-cle)
+84. [Atelier : regrouper les mots-clés par intention](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/b6267ab5-5201-416f-9444-54384c678762/atelier-regrouper-les-mots-cles-par-intention)
 
