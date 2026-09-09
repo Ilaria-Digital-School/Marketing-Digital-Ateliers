@@ -97,4 +97,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 83. [Atelier : utiliser Ubersuggest pour analyser les métriques mot-clé](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/c60c6f68-48e4-4491-b6ed-145cfd87e83a/atelier-utiliser-ubersuggest-pour-analyser-les-metriques-mot-cle)
 84. [Atelier : regrouper les mots-clés par intention](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/b6267ab5-5201-416f-9444-54384c678762/atelier-regrouper-les-mots-cles-par-intention)
 85. [Atelier : construire une matrice de priorisation](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/a3d12a73-855b-4345-9118-43b26f232bdd/atelier-construire-une-matrice-de-priorisation)
+86. [Mini-projet : rédiger le brief mots-clés complet d’un site fictif](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/5f3bac86-29ae-48e9-8c9a-9108d92053ff/mini-projet-rediger-le-brief-mots-cles-complet-d-un-site-fictif)
 
