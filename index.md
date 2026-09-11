@@ -99,4 +99,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 85. [Atelier : construire une matrice de priorisation](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/a3d12a73-855b-4345-9118-43b26f232bdd/atelier-construire-une-matrice-de-priorisation)
 86. [Mini-projet : rédiger le brief mots-clés complet d’un site fictif](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/5f3bac86-29ae-48e9-8c9a-9108d92053ff/mini-projet-rediger-le-brief-mots-cles-complet-d-un-site-fictif)
 87. [Atelier : réécrire un Title et une Meta Description](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/155ccf67-1804-4a07-af22-af53f51796e9/atelier-reecrire-un-title-et-une-meta-description)
+88. [Atelier : structurer un article avec H1-H3](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/4b0fff89-1487-400f-a633-81972187f736/atelier-structurer-un-article-avec-h1-h3)
 
