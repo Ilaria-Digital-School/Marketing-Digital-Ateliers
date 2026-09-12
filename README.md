@@ -94,3 +94,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [86. Mini-projet : rédiger le brief mots-clés complet d’un site fictif](86-mini-projet-r-diger-le-brief-mots-cl-s-complet-d-un-site-fictif/)
 - [87. Atelier : réécrire un Title et une Meta Description](87-atelier-r-crire-un-title-et-une-meta-description/)
 - [88. Atelier : structurer un article avec H1-H3](88-atelier-structurer-un-article-avec-h1-h3/)
+- [89. Atelier : audit rapide d’un contenu existant](89-atelier-audit-rapide-d-un-contenu-existant/)
