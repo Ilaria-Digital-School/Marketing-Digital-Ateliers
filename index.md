@@ -101,4 +101,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 87. [Atelier : réécrire un Title et une Meta Description](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/155ccf67-1804-4a07-af22-af53f51796e9/atelier-reecrire-un-title-et-une-meta-description)
 88. [Atelier : structurer un article avec H1-H3](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/4b0fff89-1487-400f-a633-81972187f736/atelier-structurer-un-article-avec-h1-h3)
 89. [Atelier : audit rapide d’un contenu existant](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/e839c112-a6d0-4510-9555-95d33573e3da/atelier-audit-rapide-d-un-contenu-existant)
+90. [Atelier : optimiser les liens internes d’un mini-site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/db54ade9-34a9-4f66-a779-8dabbac1cd74/atelier-optimiser-les-liens-internes-d-un-mini-site)
 
