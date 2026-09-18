@@ -103,4 +103,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 89. [Atelier : audit rapide d’un contenu existant](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/e839c112-a6d0-4510-9555-95d33573e3da/atelier-audit-rapide-d-un-contenu-existant)
 90. [Atelier : optimiser les liens internes d’un mini-site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/db54ade9-34a9-4f66-a779-8dabbac1cd74/atelier-optimiser-les-liens-internes-d-un-mini-site)
 91. [Atelier : tester la vitesse avec PageSpeed Insights](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/08ecdfec-c23f-45ea-a221-754a1f48bcd7/atelier-tester-la-vitesse-avec-pagespeed-insights)
+92. [Atelier : dessiner une arborescence optimisée](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/521474ac-b4ee-4fb9-b060-646a403087f2/atelier-dessiner-une-arborescence-optimisee)
 

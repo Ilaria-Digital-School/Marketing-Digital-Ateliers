@@ -97,3 +97,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [89. Atelier : audit rapide d’un contenu existant](89-atelier-audit-rapide-d-un-contenu-existant/)
 - [90. Atelier : optimiser les liens internes d’un mini-site](90-atelier-optimiser-les-liens-internes-d-un-mini-site/)
 - [91. Atelier : tester la vitesse avec PageSpeed Insights](91-atelier-tester-la-vitesse-avec-pagespeed-insights/)
+- [92. Atelier : dessiner une arborescence optimisée](92-atelier-dessiner-une-arborescence-optimis-e/)
