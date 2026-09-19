@@ -1,0 +1,2 @@
+<?php
+// Atelier : corriger un plan de redirections
