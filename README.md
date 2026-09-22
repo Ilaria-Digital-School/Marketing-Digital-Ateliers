@@ -99,3 +99,4 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [91. Atelier : tester la vitesse avec PageSpeed Insights](91-atelier-tester-la-vitesse-avec-pagespeed-insights/)
 - [92. Atelier : dessiner une arborescence optimisée](92-atelier-dessiner-une-arborescence-optimis-e/)
 - [93. Atelier : corriger un plan de redirections](93-atelier-corriger-un-plan-de-redirections/)
+- [94. Atelier : diagnostiquer le profil de liens d’un site](94-atelier-diagnostiquer-le-profil-de-liens-d-un-site/)

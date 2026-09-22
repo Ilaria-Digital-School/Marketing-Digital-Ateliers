@@ -105,4 +105,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 91. [Atelier : tester la vitesse avec PageSpeed Insights](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/08ecdfec-c23f-45ea-a221-754a1f48bcd7/atelier-tester-la-vitesse-avec-pagespeed-insights)
 92. [Atelier : dessiner une arborescence optimisée](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/521474ac-b4ee-4fb9-b060-646a403087f2/atelier-dessiner-une-arborescence-optimisee)
 93. [Atelier : corriger un plan de redirections](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/f48b984a-fc6c-47c6-9c60-0228130adcac/atelier-corriger-un-plan-de-redirections)
+94. [Atelier : diagnostiquer le profil de liens d’un site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/a3943ba0-f198-453d-8592-32efa4f02ac6/atelier-diagnostiquer-le-profil-de-liens-d-un-site)
 
