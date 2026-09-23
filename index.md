@@ -106,4 +106,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 92. [Atelier : dessiner une arborescence optimisée](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/521474ac-b4ee-4fb9-b060-646a403087f2/atelier-dessiner-une-arborescence-optimisee)
 93. [Atelier : corriger un plan de redirections](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/f48b984a-fc6c-47c6-9c60-0228130adcac/atelier-corriger-un-plan-de-redirections)
 94. [Atelier : diagnostiquer le profil de liens d’un site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/a3943ba0-f198-453d-8592-32efa4f02ac6/atelier-diagnostiquer-le-profil-de-liens-d-un-site)
+95. [Atelier : brainstorm d’une campagne de link building](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/9716049e-b3fc-406c-a0ab-800560cca375/atelier-brainstorm-d-une-campagne-de-link-building)
 
