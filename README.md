@@ -101,3 +101,5 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 - [93. Atelier : corriger un plan de redirections](93-atelier-corriger-un-plan-de-redirections/)
 - [94. Atelier : diagnostiquer le profil de liens d’un site](94-atelier-diagnostiquer-le-profil-de-liens-d-un-site/)
 - [95. Atelier : brainstorm d’une campagne de link building](95-atelier-brainstorm-d-une-campagne-de-link-building/)
+- [96. Atelier : configurer Search Console et lire son premier rapport](96-atelier-configurer-search-console-et-lire-son-premier-rapport/)
+- [97. Mini-projet de synthèse : construire le plan SEO complet d’un site](97-mini-projet-de-synth-se-construire-le-plan-seo-complet-d-un-site/)

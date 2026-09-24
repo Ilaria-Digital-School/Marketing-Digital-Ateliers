@@ -1,0 +1,1 @@
+// Mini-projet de synthèse : construire le plan SEO complet d’un site

@@ -107,4 +107,6 @@ Acquérir une maîtrise complète du marketing digital pour élaborer des strat�
 93. [Atelier : corriger un plan de redirections](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/f48b984a-fc6c-47c6-9c60-0228130adcac/atelier-corriger-un-plan-de-redirections)
 94. [Atelier : diagnostiquer le profil de liens d’un site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/a3943ba0-f198-453d-8592-32efa4f02ac6/atelier-diagnostiquer-le-profil-de-liens-d-un-site)
 95. [Atelier : brainstorm d’une campagne de link building](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/9716049e-b3fc-406c-a0ab-800560cca375/atelier-brainstorm-d-une-campagne-de-link-building)
+96. [Atelier : configurer Search Console et lire son premier rapport](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/d6856bac-4b16-4c9a-986c-1937ca0f0ee9/atelier-configurer-search-console-et-lire-son-premier-rapport)
+97. [Mini-projet de synthèse : construire le plan SEO complet d’un site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/fr/71ce28a3-f774-4abf-80c3-4a8049d81b8f/6f4e5b70-b6e7-4b40-80df-dad29fbe2fc0/mini-projet-de-synthese-construire-le-plan-seo-complet-d-un-site)
 
