@@ -1,2 +1,0 @@
-<?php
-// Atelier : définir les indicateurs pour un CJM existant

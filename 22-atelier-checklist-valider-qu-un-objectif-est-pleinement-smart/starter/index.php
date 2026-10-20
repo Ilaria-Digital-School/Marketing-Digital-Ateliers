@@ -1,2 +1,0 @@
-<?php
-// Atelier checklist : Valider qu’un objectif est pleinement SMART

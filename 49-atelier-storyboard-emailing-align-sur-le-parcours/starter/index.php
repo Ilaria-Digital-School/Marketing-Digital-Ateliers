@@ -1,2 +1,0 @@
-<?php
-// Atelier : storyboard emailing aligné sur le parcours

@@ -1,2 +1,0 @@
-<?php
-// Atelier : Réécrire un plan d’action avec objectifs SMART et KPI

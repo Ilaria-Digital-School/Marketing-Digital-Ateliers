@@ -1,2 +1,0 @@
-<?php
-// Mini-cas : diagnostic d'une stratégie de contenu débutante

@@ -1,1 +1,0 @@
-// Atelier : Personnaliser labels et échéances

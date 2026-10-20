@@ -1,1 +1,0 @@
-// Atelier : tester la vitesse avec PageSpeed Insights
