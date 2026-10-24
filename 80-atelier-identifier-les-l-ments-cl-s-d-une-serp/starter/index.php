@@ -1,0 +1,2 @@
+<?php
+// Atelier : identifier les éléments clés d’une SERP

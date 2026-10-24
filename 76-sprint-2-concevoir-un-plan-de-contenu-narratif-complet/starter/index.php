@@ -1,0 +1,2 @@
+<?php
+// Sprint 2 : concevoir un plan de contenu narratif complet

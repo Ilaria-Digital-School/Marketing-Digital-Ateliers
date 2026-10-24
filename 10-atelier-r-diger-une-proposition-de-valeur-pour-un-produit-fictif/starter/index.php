@@ -1,0 +1,2 @@
+<?php
+// Atelier : rédiger une proposition de valeur pour un produit fictif

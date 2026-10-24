@@ -1,0 +1,2 @@
+<?php
+// Définir un scénario simple de nurturing basé sur le contenu
