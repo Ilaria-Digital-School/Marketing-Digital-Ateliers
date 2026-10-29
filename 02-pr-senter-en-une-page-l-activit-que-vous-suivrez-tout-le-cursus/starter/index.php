@@ -1,0 +1,2 @@
+<?php
+// Présenter en une page l'activité que vous suivrez tout le cursus
