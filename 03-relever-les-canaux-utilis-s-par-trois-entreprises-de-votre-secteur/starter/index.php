@@ -1,0 +1,2 @@
+<?php
+// Relever les canaux utilisés par trois entreprises de votre secteur
