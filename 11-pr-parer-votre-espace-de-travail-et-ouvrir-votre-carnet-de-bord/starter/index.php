@@ -1,0 +1,2 @@
+<?php
+// Préparer votre espace de travail et ouvrir votre carnet de bord
