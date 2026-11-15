@@ -1,0 +1,2 @@
+<?php
+// Construire votre premier tableau : les canaux de votre activité et leur coût
