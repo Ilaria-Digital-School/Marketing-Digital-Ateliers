@@ -1,0 +1,2 @@
+<?php
+// Mini-projet : rédiger le brief mots-clés complet d’un site fictif

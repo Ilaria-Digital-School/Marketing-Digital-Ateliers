@@ -1,0 +1,2 @@
+<?php
+// Atelier : optimiser les liens internes d’un mini-site
